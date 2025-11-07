@@ -1,0 +1,31 @@
+# Data Manipulation
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Data Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+
+# Dashboard
+streamlit>=1.28.0
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.25.0
+notebook>=7.0.0
+
+# Data Analysis
+scipy>=1.10.0
+
+# Optional: For advanced visualizations
+dash>=2.14.0
+dash-bootstrap-components>=1.5.0
+
+# Optional: For data export
+openpyxl>=3.1.0
+xlsxwriter>=3.1.0
+
+# For plotly image export
+kaleido>=0.2.1
+
